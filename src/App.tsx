@@ -3,7 +3,7 @@ import Home from "../src/pages/Home"
 import Store from "../src/pages/Store"
 import About from "../src/pages/About";
 import { Container } from "react-bootstrap"
-import Navbar from "./components/Navbar";
+import Navbar from "./components/Navbar/index";
 
 function App() {
 
